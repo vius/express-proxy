@@ -1,0 +1,1 @@
+rsync -av -e 'ssh -p 2222 -i mys_aws_new.pem' -r --exclude-from .gitignore ./ ec2-user@yunshan.me:~/express-proxy/
