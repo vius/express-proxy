@@ -27,3 +27,4 @@ dist-ssr
 .pnpm-lock.yaml
 static
 *.pem
+log.csv
